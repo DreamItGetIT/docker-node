@@ -16,4 +16,4 @@ It fetches NodeJS (the release informed by a git tag) from its website, unpack a
 
 ## License
 
-MIT, read the LICESE file for more details.
+MIT, read the LICENSE file for more details.
